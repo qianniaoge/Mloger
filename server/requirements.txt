@@ -3,7 +3,7 @@ hyper==0.5.0
 netaddr==0.8.0
 cachetools==4.2.4
 Flask_Login==0.5.0
-mitmproxy==7.0.4
+mitmproxy==8.0.0
 pymongo==3.12.2
 mongoengine==0.23.1
 requests==2.26.0
